@@ -1,0 +1,6 @@
+Babel en JavaScript
+Babel es un transpilador de JavaScript. Su principal función es convertir el código ECMAScript 2015+
+(ES6 y versiones posteriores) en una versión de JavaScript compatible con navegadores y entornos más
+antiguos que aún no soportan las características más recientes del lenguaje. Babel permite a los
+desarrolladores usar las últimas características del lenguaje sin preocuparse por la compatibilidad
+con todos los entornos donde su código se ejecutará.

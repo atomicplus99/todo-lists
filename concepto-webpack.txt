@@ -1,0 +1,23 @@
+Webpack es una herramienta de construcción para proyectos web.
+Simplificándolo al máximo, imagina que Webpack es como una máquina
+que toma todos los archivos de tu proyecto (JavaScript, CSS, imágenes, etc.),
+los procesa y los combina en un solo archivo o en un conjunto de archivos optimizado
+que el navegador puede cargar de manera eficiente. Aquí hay una explicación sencilla de los conceptos clave:
+
+¿Qué es Webpack?
+Bundler: Webpack es un "bundler" o empaquetador de módulos. Su principal función es tomar módulos con dependencias
+y generar archivos estáticos que representan esos módulos.
+
+¿Por qué usar Webpack?
+Modularización: Te permite trabajar con módulos, lo que significa que puedes dividir tu código en pequeños archivos 
+independientes que pueden depender entre sí. Esto hace que el código sea más fácil de mantener y escalar.
+
+Optimización: Combina y optimiza tu código para hacerlo más rápido y eficiente para los navegadores.
+Por ejemplo, puede minificar tu JavaScript, optimizar imágenes y dividir tu código en partes que solo
+se cargan cuando son necesarias (carga bajo demanda).
+
+Resumen
+Webpack toma todos los archivos de tu proyecto.
+Transforma y combina esos archivos en un paquete optimizado.
+Te ayuda a escribir código modular y eficiente.
+Loaders y plugins extienden su funcionalidad para manejar diferentes tipos de archivos y tareas complejas.
