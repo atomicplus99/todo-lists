@@ -73,7 +73,7 @@ btnBorrar.addEventListener('click', ()=> {
     event.target.classList.add('selected');
 
     for( let i = divTodoList.children.length-1; i >= 0; i-- ){
-        
+        //dasdas
         const elemento = divTodoList.children[i];
         
         if( elemento.classList.contains('completed')) {
